@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahsan Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" width="345" alt="coding" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" /> 
+<img align="right" width="400" alt="coding" src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" /> 
 
 
 
