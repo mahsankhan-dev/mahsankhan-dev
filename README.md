@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahsan Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" width="400" alt="coding" src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" /> 
-
-
+<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahsankhan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mahsankhan-dev" /> </p>
 
 - 🔭 I’m currently working on **Mini Project**
 
@@ -24,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahsankhan-dev&show_icons=true&locale=en&layout=compact" alt="mahsankhan-dev" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mahsankhan-dev&show_icons=true&locale=en" alt="mahsankhan-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahsankhan-dev&show_icons=true&locale=en" alt="mahsankhan-dev" /></p>
