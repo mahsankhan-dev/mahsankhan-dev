@@ -24,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahsankhan-dev&show_icons=true&locale=en&layout=compact" alt="mahsankhan-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahsankhan-dev&show_icons=true&locale=en" alt="mahsankhan-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mahsankhan-dev&show_icons=true&locale=en" alt="mahsankhan-dev" /></p>
