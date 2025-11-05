@@ -29,8 +29,8 @@ I love blending creativity with logic — turning ideas into beautiful, scalable
 ### ⚙️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,bootstrap,tailwind,electron,mongodb,git,github,cypress,vscode,figma&perline=9" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React Native" title="React Native" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,bootstrap,tailwind,electron,mongodb,supabase,firebase,git,github,cypress,vscode,figma&perline=9" />
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React Native" title="React Native" /> -->
 </p>
 
 ---
