@@ -1,17 +1,78 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ahsan Khan</h1>
-<h3 align="center">JavaScript Enthusiast 🚀 | Full-Stack Engineer | React, Next.js, React Native, Node.js, TypeScript</h3>
+<!-- 💎 Modern Animated GitHub README by ChatGPT x mahsankhan-dev -->
 
-<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" alt="coding" width="100%" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Hey+there+👋;+I'm+Ahsan+Khan!;Full+Stack+JavaScript+Engineer;React+%7C+Next.js+%7C+React+Native+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" />
+</h1>
 
-- 📫 How to reach me **mahsankhan.dev@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahsan-khan-445b7324b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsan-khan-445b7324b" height="30" width="40" /></a>
-<a href="https://instagram.com/mahsankhan.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahsankhan.dev" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/mahsankhan-dev.png" width="150" height="150" style="border-radius:50%;" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  🚀 Full-Stack JavaScript Engineer | React.js • Next.js • React Native • Node.js • Express.js • TypeScript • Electron.js
+</p>
+
+---
+
+### 🧠 About Me
+
+Hi there! I'm a passionate **Full-Stack JavaScript Developer** with over **3 years of hands-on experience** crafting modern web, mobile, and desktop applications.  
+I love blending creativity with logic — turning ideas into beautiful, scalable, and efficient digital products.
+
+- 💻 I specialize in **React.js**, **Next.js**, **React Native**, **Node.js**, **Express.js**, and **Electron.js**  
+- 🎨 I enjoy building clean UI with **HTML**, **CSS**, **Bootstrap**, and **Tailwind CSS**  
+- 🧩 I use **TypeScript**, **Cypress**, and **GitHub** to write robust, maintainable code  
+- 🌱 Always exploring new tools and pushing JavaScript to its limits  
+
+---
+
+### ⚙️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,bootstrap,tailwind,electron,mongodb,git,github,cypress,vscode,figma&perline=9" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React Native" title="React Native" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahsankhan-dev&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahsankhan-dev&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahsankhan-dev&bg_color=1a1b27&color=70A4FC&line=00C6FF&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahsan-khan-445b7324b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mahsankhan.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/mahsankhan-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✨ Fun Fact  
+> “I don’t just code, I craft experiences that connect people and technology.” ⚡  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <i>⭐ If you like my work, consider giving my repositories a star — it keeps me motivated!</i>
+</p>
